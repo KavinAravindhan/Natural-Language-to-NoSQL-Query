@@ -1,4 +1,4 @@
-# Natural Language to NoSQL Query Conversion Using LLMs
+# Natural Language to NoSQL Query Using LLMs
 
 ![Development Status](https://img.shields.io/badge/status-under%20development-yellow)
 ![License](https://img.shields.io/badge/license-MIT-blue)
