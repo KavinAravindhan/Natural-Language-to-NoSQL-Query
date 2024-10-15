@@ -6,7 +6,7 @@
 ![LLM](https://img.shields.io/badge/LLM-brightgreen)
 ![NoSQL](https://img.shields.io/badge/NoSQL-orange)
 
-This project leverages large language models (LLMs) to convert natural language English queries into NoSQL syntax. It then retrieves the query results and translates them back into human-readable English text. This tool aims to simplify database interactions by allowing users to query NoSQL databases directly in plain English.
+This project leverages large language models (LLMs) to convert natural language English queries into NoSQL syntax. It then retrieves the query results and translates them back into human-readable English text. This tool aims to simplify database interactions by allowing users to query NoSQL databases directly in plain English
 
 ## Key Features
 
